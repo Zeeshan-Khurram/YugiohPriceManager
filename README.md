@@ -5,4 +5,4 @@
 - Intention to show ways to optimize decks
 
 
--I use an api from http://yugiohprices.com to get the prices and MySQL as the database
+- I use an api from http://yugiohprices.com to get the prices and MySQL as the database
